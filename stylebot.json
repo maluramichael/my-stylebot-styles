@@ -1,0 +1,88 @@
+{
+  "boerse.to": {
+    "_enabled": true,
+    "_rules": {
+      "select#ctrl_nodes": {
+        "height": "500px",
+        "width": "600px"
+      }
+    }
+  },
+  "gamedev.stackexchange.com": {
+    "_enabled": true,
+    "_rules": {
+      "pre": {
+        "max-height": "none"
+      }
+    }
+  },
+  "pr0gramm.com": {
+    "_enabled": true,
+    "_rules": {
+      ".item-container": {
+        "background-color": "#cde"
+      },
+      ".time": {
+        "color": "#000"
+      },
+      "body": {
+        "background-color": "#cde",
+        "color": "#000"
+      }
+    }
+  },
+  "gamephreakers.com": {
+    "_enabled": true,
+    "_rules": {
+      "#wpadminbar": {
+        "display": "none"
+      },
+      ".admin-bar .mean-menu.affix": {
+        "margin-top": "0"
+      },
+      ".mean-menu, .mean-bar": {
+        "margin-bottom": "30px"
+      },
+      ".post-suggestion": {
+        "display": "none"
+      },
+      ".row > .col-lg-9": {
+        "flex": "none",
+        "max-width": "100%"
+      },
+      "article.post > .single-image": {
+        "display": "none"
+      },
+      "div.adv-sec.header-bg-image": {
+        "display": "none"
+      },
+      "div.container.mb-view-container": {
+        "max-width": "100%"
+      },
+      "div.entry-content.detail-entry-content": {
+        "width": "100%"
+      },
+      "div.no-grav": {
+        "display": "none"
+      },
+      "h1.site-title a": {
+        "color": "#fff"
+      },
+      "html": {
+        "margin-top": "0 "
+      },
+      "p.site-description": {
+        "color": "#fff"
+      },
+      ".type1": {
+        "box-shadow": "none"
+      },
+      "figure .post-thumbnail": {
+        "display": "none"
+      },
+      "article .row figure": {
+        "display": "none"
+      }
+    }
+  }
+}
